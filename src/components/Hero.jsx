@@ -9,7 +9,7 @@ const Hero = () => (
       </span>
       <br />
       <span className="text-blue-600">
-        This is a site to test track Segment and Sendgrid 
+        Click around and help us test Segment and Sendgrid tracking.
       </span>
     </h2>
   </div>
